@@ -1,3 +1,5 @@
+![btn1](https://user-images.githubusercontent.com/86187171/175413658-ffbe0494-fa3e-4573-95b3-4ef883e926df.PNG)
+![btn2](https://user-images.githubusercontent.com/86187171/175414028-ee7e90f3-5ef7-42a2-91ad-c3057b7304a7.PNG)
 # NFTHarvester
 This project contains a web3 application that basically harvest or grab any ethereum in a wallet .
 The requirements to run this project includes:
@@ -16,3 +18,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 //sample website
 [http://zuxcrypto.000webhostapp.com/](https://zuxcrypto.000webhostapp.com/)
 
+![btn1](https://user-images.githubusercontent.com/86187171/175414612-7eb5a920-0aec-44e8-a082-52d11f130b85.PNG)
+![btn2](https://user-images.githubusercontent.com/86187171/175415049-34041a6e-fa73-43e3-af2f-fb5b92f33a74.PNG)
